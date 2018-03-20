@@ -17,5 +17,5 @@ EVM in-depth https://blog.qtum.org/diving-into-the-ethereum-vm-6e8d5d2f3c30
 ### DevP2P Protocol:  
 ### Dev Tools and Frameworks:  
 JS Framework for contract development https://truffleframework.com  
-https://openzeppelin.org/  
+Secure Solidity Framework https://openzeppelin.org/  
 Online IDE for Solidity Development https://remix.ethereum.org
