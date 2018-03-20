@@ -2,7 +2,7 @@
 Collection of links for Ethereum learning
 
 ### Ethereum Clients:   
-https://github.com/ethereum/go-ethereum  
+Geth https://github.com/ethereum/go-ethereum  
 ### Ethereum Testnets:  
 ### Keys and Addresses:  
 ### Wallets:  
@@ -10,11 +10,12 @@ https://github.com/ethereum/go-ethereum
 ### Smart Contracts:  
 ### Tokens:  
 ### Accounting & Gas:  
-http://ethgasstation.info/  
+Online Eth Gas calculator http://ethgasstation.info/  
 ### EVM: 
-https://blog.qtum.org/diving-into-the-ethereum-vm-6e8d5d2f3c30  
+EVM in-depth https://blog.qtum.org/diving-into-the-ethereum-vm-6e8d5d2f3c30  
 ### Consensus:  
 ### DevP2P Protocol:  
 ### Dev Tools and Frameworks:  
-https://truffleframework.com  
+JS Framework for contract development https://truffleframework.com  
 https://openzeppelin.org/  
+Online IDE for Solidity Development https://remix.ethereum.org
