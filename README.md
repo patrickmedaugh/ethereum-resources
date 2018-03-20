@@ -18,6 +18,6 @@ EVM in-depth https://blog.qtum.org/diving-into-the-ethereum-vm-6e8d5d2f3c30
 ### Dev Tools and Frameworks:  
 JS Framework for contract development https://truffleframework.com  
 Secure Solidity Framework https://openzeppelin.org/  
-Online IDE for Solidity Development https://remix.ethereum.org
-Infura Guide (Public Geth Server) https://blog.infura.io/getting-started-with-infura-28e41844cc89
-Online Hash Tool https://emn178.github.io/online-tools/keccak_256.html
+Online IDE for Solidity Development https://remix.ethereum.org  
+Infura Guide (Public Geth Server) https://blog.infura.io/getting-started-with-infura-28e41844cc89  
+Online Hash Tool https://emn178.github.io/online-tools/keccak_256.html  
